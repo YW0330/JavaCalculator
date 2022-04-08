@@ -1,4 +1,4 @@
-default: run
+default: compile run clean
 
 compile:
 	javac -encoding UTF8 Calculator.java
