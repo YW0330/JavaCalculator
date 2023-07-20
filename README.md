@@ -1,29 +1,29 @@
-# Java計算機
+# The Java Calculator with Graphical User Interface
 
-## 使用方式
+## How to use?
 
-編譯程式：
-```shell
-$ make compile
-```
+- Compile the project
+  ```shell
+  $ make compile
+  ```
 
-執行程式：
-```shell
-$ make run
-```
+- Run the program
+  ```shell
+  $ make run
+  ```
 
-清除中間檔案：
-```shell
-$ make clean
-```
-## 參考資料
+- Clean the files
+  ```shell
+  $ make clean
+  ```
+## Reference
 [小計算機(SWING)重寫版](https://blog.xuite.net/ray00000test/blog/27838205)
 
-## 註記
+## Notes
 - 如果需要執行模組程式可以參照以下方法：
-  - `dirName`為模組名稱(資料夾)
-  - `fileName`為包含`main` Method的檔案名稱
-  ```shell
-  $ java dirName.fileName
-  ```
+  - `dirName` 為模組名稱(資料夾)
+  - `fileName` 為包含 `main` Method的檔案名稱
+    ```shell
+    $ java dirName.fileName
+    ```
 - 安裝 [Java JDK](https://www.oracle.com/java/technologies/downloads/#jdk18-windows)
